@@ -13,5 +13,5 @@ function downloadFile(url, fileName){
     });
 };
 document.querySelector('button').onclick =function () {
-  downloadFile('https://www.google-analytics.com/analytics.js', 'gooleAnalytics.js');
+  downloadFile('https://github.com/soulfire-singularity/ethan-n-resume/blob/main/d-20-roller.py', 'd-20-roller.py');
 }
