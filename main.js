@@ -1,3 +1,3 @@
 function Download(url) {
-    document.getElementById('my_iframe').src = url;
+    document.getElementById('d-20-file').src = url;
 };
