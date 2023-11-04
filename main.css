@@ -1,0 +1,92 @@
+body {
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            text-align: center;
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+        }
+        .name {
+            font-size: 40px;
+            font-weight: bold;
+        }
+        .contact {
+            margin-top: 10px;
+        }
+        
+        .summary-section {
+            margin-top: 30px;
+            background-color: #595958;
+            color: #fff;
+            padding: 20px;
+        }
+        .experience-section {
+            margin-top: 30px;
+            background-color: #595958;
+            color: #fff;
+            padding: 20px;
+        }
+        .company-name {
+          font-size: 20px;
+        }
+        .company-website {
+          color: #000;
+          text-decoration: none;
+          background-color:#fcca03;
+          padding: 5px;
+          border-radius: 5px;
+        }
+        .education-section {
+            margin-top: 30px;
+            background-color: #595958;
+            color: #fff;
+            padding: 20px;
+        }
+        .skill-section {
+            margin-top: 30px;
+            background-color: #595958;
+            color: #fff;
+            padding: 20px;
+        }
+        .project-section {
+          margin-top: 30px;
+            background-color: #595958;
+            color: #fff;
+            padding: 20px;
+        }
+        .section-header {
+            font-weight: bold;
+            font-size: 30px;
+        }
+        .section-content {
+            margin-top: 10px;
+        }
+        .experience {
+            margin-top: 20px;
+            
+        }
+        .experience-item {
+            margin-top: 40px;
+            
+        }
+        .education {
+            margin-top: 20px;
+        }
+        .education-item {
+            margin-top: 10px;
+        }
+        .skills {
+            margin-top: 20px;
+        }
+        .skill-list {
+            list-style: none;
+            padding: 0;
+        }
+        .skill-list-item {
+            margin-top: 5px;
+        }
+        .link {
+            background-color:#fcca03 ;
+            padding-right: -5px;
+        }
