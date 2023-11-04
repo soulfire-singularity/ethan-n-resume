@@ -1,7 +1,7 @@
 body {
             font-family: Arial, sans-serif;
         }
-        .header {
+            .header {
             text-align: center;
             background-color: #333;
             color: #fff;
@@ -86,7 +86,13 @@ body {
         .skill-list-item {
             margin-top: 5px;
         }
-        .link {
-            background-color:#fcca03 ;
-            padding-right: -5px;
-        }
+.link {
+background-color:#fcca03 ;
+padding-right: -5px;
+}
+.profile-image {
+
+}
+.image {
+
+}
