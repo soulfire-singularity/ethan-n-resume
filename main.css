@@ -111,20 +111,11 @@ height: auto;
 border-radius: 50px;
 border: 5px solid #fff;
 }
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 15px;
+.flex-container {
+  display: flex;
 }
 
-.row::after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-@media screen and (max-width:600px) {
-  .column {
-    width: 100%;
-  }
+.flex-item {
+  margin: 10px;
+  padding: 20px;
 }
