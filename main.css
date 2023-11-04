@@ -96,6 +96,7 @@ padding-right: -5px;
 .image {
 width: 25%;
 height: auto;
+border-radius: 50px;
 }
 .column {
   float: left;
