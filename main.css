@@ -106,12 +106,12 @@ color: #ced6d4;
 
 }
 .image {
-width: 100%;
+width: 25%;
 height: auto;
 border-radius: 50px;
 border: 5px solid #fff;
 margin-bottom: 50px;
-min-width: 100%;
+min-width: 200%;
 
 }
 .flex-container {
