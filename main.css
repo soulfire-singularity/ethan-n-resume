@@ -107,7 +107,7 @@ color: #ced6d4;
 }
 .image {
 width: 25%;
-height: 25%;
+height: auto;
 border-radius: 50px;
 border: 5px solid #fff;
 }
@@ -116,6 +116,6 @@ border: 5px solid #fff;
 }
 
 .flex-item {
-  margin: 10px;
+  margin: 20px;
   padding: 20px;
 }
