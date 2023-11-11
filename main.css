@@ -110,6 +110,9 @@ overflow: hidden;
 margin: 25px auto;
 border: 15px solid #fff;
 }
+.profile-image img {
+width: 100%;
+}
 .image {
 
 }
