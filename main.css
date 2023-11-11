@@ -103,15 +103,14 @@ color: #ced6d4;
             
 }
 .profile-image {
-
+width: 200px;
+height: 200px;
+border-radius: 50%;
+overflow: hidden;
+margin: 25px auto;
+border: 15px solid #fff;
 }
 .image {
-width: 25%;
-height: auto;
-border-radius: 50px;
-border: 5px solid #fff;
-margin-bottom: 50px;
-min-width: 25%;
 
 }
 .flex-container {
