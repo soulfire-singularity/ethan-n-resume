@@ -69,10 +69,12 @@ body {
 
 }
 .thumbnail-img {
-border: 5px solid #ddd; /* Gray border */
+border: 5px solid #fff; /* white border */
   border-radius: 5px;  /* Rounded border */
   width: 200px; /* Set a small width */
   height: auto;
+  text-align: center;
+
 }
         .section-header {
             font-weight: bold;
